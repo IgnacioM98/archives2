@@ -1,0 +1,44 @@
+[
+ {
+   "nombre": "lima",
+   "positions": [-77.042793,-12.046374],
+   "fechaCaso": "mar-20",
+   "values": 75966
+ },
+ {
+   "nombre": "bogota",
+   "positions": [-74.063644,4.624335],
+   "fechaCaso": "mar-20",
+   "values": 101955
+ },
+ {
+   "nombre": "buenos aires",
+   "positions": [-58.381592,-34.603722],
+   "fechaCaso": "mar-20",
+   "values": 87528
+ },
+ {
+   "nombre": "rio de janeiro",
+   "positions": [-43.196388, -22.908333],
+   "fechaCaso": "mar-20",
+   "values": 71322
+ },
+ {
+   "nombre": "sao paulo",
+   "positions": [-46.625290,-23.533773],
+   "fechaCaso": "mar-20",
+   "values": 193689
+ },
+ {
+   "nombre": "mexico city",
+   "positions": [-99.133209,19.432608],
+   "fechaCaso": "mar-20",
+   "values": 82120
+ },
+ {
+   "nombre": "santiago",
+   "positions": [-70.673676,-33.447487],
+   "fechaCaso": "mar-20",
+   "values": 255841
+ }
+]
